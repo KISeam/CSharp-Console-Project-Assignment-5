@@ -1,4 +1,4 @@
-# C-Console-Project-Assignment-5
+# CSharp-Console-Project-Assignment-5
 
 A simple C# console application developed using .NET 10.0.  
 This project performs basic arithmetic operations using user input and conditional statements.
